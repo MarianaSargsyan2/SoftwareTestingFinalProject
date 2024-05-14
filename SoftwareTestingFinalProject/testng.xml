@@ -1,0 +1,5 @@
+<test name="ShopCider Tests">
+    <listeners>
+        <listener class="com.src/main/java/ScreenshotListener.ScreenshotListener" />
+    </listeners>
+</test>
